@@ -57,6 +57,6 @@ public:
             }
             cur = cur->next;    //节点后移
         }
-        return dummy->next;
+        return dummy->next; 
     }
 };
