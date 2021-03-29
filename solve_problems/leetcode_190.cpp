@@ -14,7 +14,8 @@
 
 
 
-// 解题代码
+// 解题代码     时间复杂度O(n)  空间复杂度O(1)
+typedef unsigned int uint32_t;
 
 class Solution {
 public:
